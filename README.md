@@ -2,6 +2,8 @@
 
   ## Description
   The user is prompted to enter information regarding their project so that a README.MD can be dynamically created as the end result. This is based on the answers to the prompts.This will be invoked with the command: node index.js
+  
+  ![](READMEHowTo.mp4)
 
   ## Table of Contents
 
