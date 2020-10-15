@@ -4,7 +4,7 @@
   The user is prompted to enter information regarding their project so that a README.MD can be dynamically created as the end result. This is based on the answers to the prompts.This will be invoked with the command: node index.js
   
  <video width="320" height="240" controls>
-  <source src="READMEHowTo.mp4" type="video/mp4">
+  <source src="READMEHowTo" type="video/mp4">
 </video>
 
   ## Table of Contents
